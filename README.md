@@ -38,6 +38,13 @@ Always learning. Always building. Always evolving.
   
 ---
 
+### 📊 GitHub Stats
+
+![JordyBacherot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JordyBacherot&theme=dracula&width=900)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyBacherot&layout=compact&theme=dracula&card_width=900)
+---
+
 ## 🧠 Final Thought
 
 > *"I must not fear. Fear is the mind-killer.  
