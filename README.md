@@ -12,7 +12,7 @@ Always learning. Always building. Always evolving.
 - **Frontend :** React, TailwindCSS, shadcn/ui  
 - **Logic and ML :** Python (scikit-learn, pandas, LangChain, Streamlit, FastAPI) 
 - **Database :** Supabase, basic SQL  
-- **LLMs:** : HuggingFace, Ollama, vLLM, LiteLLM  
+- **LLMs** : HuggingFace, Ollama, vLLM, LiteLLM  
 - **Deployment :** Vercel, Docker (beginner level)
 
 ### 📚 Currently Learning More About:
@@ -36,8 +36,6 @@ Always learning. Always building. Always evolving.
 - Continuously learn and grow across technologies, languages, and frameworks  
 - Eventually become a **trainer/teacher in AI**, whether in academia or industry
   
----
-
 ---
 
 ## 🧠 Final Thought
