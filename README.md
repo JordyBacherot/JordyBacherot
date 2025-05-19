@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello+There+!+👋;+I'm+Jordy+Bacherot+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffa500&duration=4000&lines=Hello+There+!+👋;+I'm+Jordy+Bacherot+!;" />
 </p>
 
 # I'm a French Cognitive Science & AI Student / Apprentice
