@@ -1,4 +1,15 @@
-# 👋 Hello there!, I'm a French Cognitive Science & AI Student / Apprentice
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello+There+!+👋;+I'm+Jordy+Bacherot+!;" />
+</p>
+
+# I'm a French Cognitive Science & AI Student / Apprentice
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+</div>
+
+---
 
 Curious about what makes minds tick — whether it's neurons or neural networks.
 
