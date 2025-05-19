@@ -6,7 +6,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/JordyBacherot/count.svg" alt="Visitor's Count" />
 </div>
 
 ---
@@ -14,6 +14,10 @@
 Curious about what makes minds tick — whether it's neurons or neural networks.
 
 Always learning. Always building. Always evolving.
+
+---
+
+<img src="https://github.com/JordyBacherot/JordyBacherot/blob/main/banner.png" alt="Dune Banner">
 
 ---
 
@@ -47,6 +51,14 @@ Always learning. Always building. Always evolving.
 - Continuously learn and grow across technologies, languages, and frameworks  
 - Eventually become a **trainer/teacher in AI**, whether in academia or industry
   
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,bun,vite,tailwind,git,figma,java"/>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
