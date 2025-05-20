@@ -63,9 +63,11 @@ Always learning. Always building. Always evolving.
 
 ### 📊 GitHub Stats
 
-![JordyBacherot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JordyBacherot&theme=dracula&width=900)
+<div align=center>
+    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=JordyBacherot&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="JordyBacherot's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JordyBacherot&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="JordyBacherot's GitHub Stats" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyBacherot&layout=compact&theme=dracula&card_width=900)
 ---
 
 ## 🧠 Final Thought
