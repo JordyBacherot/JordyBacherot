@@ -13,7 +13,7 @@
 
 Curious about what makes minds tick — whether it's neurons or neural networks.
 
-Always learning. Always building. Always evolving.
+Always learning. Always building.
 
 ---
 
@@ -33,16 +33,6 @@ Always learning. Always building. Always evolving.
 ### 📚 Currently Learning More About:
 - **Machine Learning** with *O’Reilly’s* “Machine Learning with scikit-learn”
 - **Deep Learning** with *O’Reilly’s* *“Deep Learning with Keras & TensorFlow”*
-
----
-
-## 🧪 Ongoing Projects
-- 🥩 Internal order platform for a local butcher shop  
-- 🌐 My personal website (showcasing projects and skills, etc.)
-
-## 🧭 Future Projects
-- 🧙 Price detection AI for **Altered (TCG)** cards  
-- ☁️ Learn about **Azure** / **AWS** (Cloud computing + AI services)
 
 ---
 
