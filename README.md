@@ -4,13 +4,6 @@
 
 # I'm a French Cognitive Science & AI Student / Apprentice
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/JordyBacherot/count.svg" alt="Visitor's Count" />
-</div>
-
----
-
 Curious about what makes minds tick — whether it's neurons or neural networks.
 
 Always learning. Always building.
