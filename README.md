@@ -21,7 +21,7 @@ Always learning. Always building.
 - **Logic and ML :** Python (scikit-learn, pandas, LangChain, Streamlit, FastAPI) 
 - **Database :** Supabase, basic SQL  
 - **LLMs** : HuggingFace, Ollama, vLLM, LiteLLM  
-- **Deployment :** Vercel, Docker (beginner level)
+- **Deployment :** Vercel, Docker 
 
 ### 📚 Currently Learning More About:
 - **Machine Learning** with *O’Reilly’s* “Machine Learning with scikit-learn”
