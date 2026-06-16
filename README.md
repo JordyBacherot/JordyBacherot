@@ -8,15 +8,7 @@ Curious about what makes minds tick — whether it's neurons or neural networks.
 Always learning. Always building.
 
 <p align="center">
-  <a href="https://portfolio.jordy-bacherot.fr">
-    <img src="https://img.shields.io/badge/Portfolio-ffa500?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jordy-bacherot/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/JordyBacherot">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  🌐 <a href="https://portfolio.jordy-bacherot.fr">Portfolio</a> &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/jordy-bacherot/">LinkedIn</a> &nbsp;·&nbsp; 🐙 <a href="https://github.com/JordyBacherot">GitHub</a>
 </p>
 
 ---
