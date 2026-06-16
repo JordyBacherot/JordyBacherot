@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffa500&duration=4000&lines=Hello+!+👋;+I'm+Jordy+Bacherot+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=ffa500&duration=4000&lines=Hello+There+!+👋;+I'm+Jordy+Bacherot+!;" />
 </p>
 
 # I'm a French Cognitive Science & AI Student / Apprentice
@@ -20,14 +20,14 @@ Always learning. Always building.
 ## 🚀 Tech I'm Using & Learning
 
 ### 🧠 What I Know (and keep improving):
-- **Frontend :** React, TailwindCSS, shadcn/ui
-- **Logic and ML :** Python (scikit-learn, pandas, PyTorch, LangChain, Streamlit, FastAPI)
-- **LLMs & RAG :** HuggingFace, Ollama, vLLM, LiteLLM, LangChain, LangGraph, LangFuse
-- **Fine-tuning :** QLoRA (PEFT), Unsloth
-- **Agents & orchestration :** LangGraph, CrewAI
-- **Dev workflow & structuration :** BMAD-Method, Superpowers, UI/UX Pro Max
-- **Database :** Supabase, basic SQL, MariaDB
-- **Deployment :** Vercel, Docker, VPS, CI/CD
+- **Frontend:** React, TailwindCSS, shadcn/ui
+- **Logic & ML:** Python (scikit-learn, pandas, PyTorch, LangChain, Streamlit, FastAPI)
+- **LLMs & RAG:** HuggingFace, Ollama, vLLM, LiteLLM, LangChain, LangGraph, LangFuse
+- **Fine-tuning:** QLoRA (PEFT), Unsloth
+- **Agents & orchestration:** LangGraph, CrewAI
+- **Dev workflow & structure:** BMAD-Method, Superpowers, UI/UX Pro Max
+- **Database:** Supabase, basic SQL, MariaDB
+- **Deployment:** Vercel, Docker, VPS, CI/CD
 
 ### ✅ Recently Read:
 - **Machine Learning** — *O’Reilly’s* “Machine Learning with scikit-learn”
@@ -38,13 +38,13 @@ Always learning. Always building.
 
 ## 🛠️ Featured Projects
 
-- **Création de chatbots RAG** — Intégration de chatbots RAG dans des applications tierces via API (LLM · RAG · LangChain · LangGraph · LangFuse · vLLM)
-- **Fine-Tuning LLM pour le Storytelling** — Pipeline ML end-to-end pour fine-tuner Qwen 2.5 7B (QLoRA 4-bit, Unsloth, LLM-as-Judge) · [GitHub](https://github.com/JordyBacherot/FineTunning_LLM_StoryTelling)
-- **Détection de scènes dangereuses pour malvoyants** — Fine-tuning d'un modèle de vision mobile (transformer-based) pour la détection d'obstacles · [Site](https://scene-hazard-detection.vercel.app/) · [GitHub](https://github.com/JordyBacherot/DeepLearningProject_SceneHazardDetection)
-- **Steam Reco — App fullstack** — Recommandation de jeux Steam (Flutter · Hono · Bun · MariaDB · Docker · VPS · CI/CD) · [GitHub](https://github.com/JordyBacherot/steam_reco_app)
-- **Algorithme de recommandation de jeux Steam** — Système basé sur un ANN (approximate nearest neighbors) et les embeddings utilisateurs (Python · PyTorch)
+- **RAG Chatbots** — Embeddable RAG chatbots integrated into third-party apps via API (LLM · RAG · LangChain · LangGraph · LangFuse · vLLM)
+- **LLM Fine-Tuning for Storytelling** — End-to-end ML pipeline to fine-tune Qwen 2.5 7B (QLoRA 4-bit, Unsloth, LLM-as-Judge) · [GitHub](https://github.com/JordyBacherot/FineTunning_LLM_StoryTelling)
+- **Hazard Detection for the Visually Impaired** — Fine-tuned a mobile vision model (transformer-based) to detect outdoor obstacles · [Website](https://scene-hazard-detection.vercel.app/) · [GitHub](https://github.com/JordyBacherot/DeepLearningProject_SceneHazardDetection)
+- **Steam Reco — Fullstack App** — Steam game recommendations (Flutter · Hono · Bun · MariaDB · Docker · VPS · CI/CD) · [GitHub](https://github.com/JordyBacherot/steam_reco_app)
+- **Steam Game Recommendation Algorithm** — ANN-based system (approximate nearest neighbors) using user embeddings (Python · PyTorch)
 
-➡️ Plus de projets sur mon [portfolio](https://portfolio.jordy-bacherot.fr).
+➡️ More projects on my [portfolio](https://portfolio.jordy-bacherot.fr).
 
 ---
 
