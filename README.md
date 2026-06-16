@@ -38,7 +38,6 @@ Always learning. Always building.
 
 ## 🛠️ Featured Projects
 
-- **RAG Chatbots** — Embeddable RAG chatbots integrated into third-party apps via API (LLM · RAG · LangChain · LangGraph · LangFuse · vLLM)
 - **LLM Fine-Tuning for Storytelling** — End-to-end ML pipeline to fine-tune Qwen 2.5 7B (QLoRA 4-bit, Unsloth, LLM-as-Judge) · [GitHub](https://github.com/JordyBacherot/FineTunning_LLM_StoryTelling)
 - **Hazard Detection for the Visually Impaired** — Fine-tuned a mobile vision model (transformer-based) to detect outdoor obstacles · [Website](https://scene-hazard-detection.vercel.app/) · [GitHub](https://github.com/JordyBacherot/DeepLearningProject_SceneHazardDetection)
 - **Steam Reco — Fullstack App** — Steam game recommendations (Flutter · Hono · Bun · MariaDB · Docker · VPS · CI/CD) · [GitHub](https://github.com/JordyBacherot/steam_reco_app)
